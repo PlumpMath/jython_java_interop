@@ -2,8 +2,9 @@
 
 ## Overview
 
-Example from Jython Book v1.0, Chapter 10: Jython and Java Integration.  The
-example is from the section *More Efficient Version of Loosely Coupled Object
+Example from 
+[Jython Book v1.0, Chapter 10: Jython and Java Integration](http://www.jython.org/jythonbook/en/1.0/JythonAndJavaIntegration.html).  
+The example is from the section *More Efficient Version of Loosely Coupled Object
 Factory*, and shows a Python class implementing a Java interface.  That Python
 class is then instantiated in Java and several of its methods are called.
 
