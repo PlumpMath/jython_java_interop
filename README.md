@@ -17,6 +17,14 @@ with:
 brew install maven
 ```
 
+You will likely also need to add the following environment variable to your `.bash_profile`:
+
+```
+export MAVEN_HOME=/usr/local/Cellar/maven/3.2.X
+```
+
+replacing `X` with the proper version number.
+
 ## Building
 
 Build the Jar with Maven:
